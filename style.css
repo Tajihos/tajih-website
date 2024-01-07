@@ -49,7 +49,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(images/Background1.png) no-repeat;
+    background: url(images/background1.png) no-repeat;
     background-size: contain; 
     background-position: center;
 }
